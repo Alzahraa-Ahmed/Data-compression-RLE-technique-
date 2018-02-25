@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+<h2>HTML Table</h2>
+
+<table>
+  <tr>
+@4 <th>Company</th>
+@4 <th>Contact</th>
+@4 <th>Country</th>
+  </tr>
+  <tr>
+@4 <td>Alfreds Futterkiste</td>
+@4 <td>Maria Anders</td>
+@4 <td>Germany</td>
+  </tr>
+  <tr>
+@4 <td>Centro comercial Moctezuma</td>
+@4 <td>Francisco Chang</td>
+@4 <td>Mexico</td>
+  </tr>
+  <tr>
+@4 <td>Ernst Handel</td>
+@4 <td>Roland Mendel</td>
+@4 <td>Austria</td>
+  </tr>
+  <tr>
+@4 <td>Island Trading</td>
+@4 <td>Helen Bennett</td>
+@4 <td>UK</td>
+  </tr>
+  <tr>
+@4 <td>Laughing Bacchus Winecellars</td>
+@4 <td>Yoshi Tannamuri</td>
+@4 <td>Canada</td>
+  </tr>
+  <tr>
+@4 <td>Magazzini Alimentari Riuniti</td>
+@4 <td>Giovanni Rovelli</td>
+@4 <td>Italy</td>
+  </tr>
+</table>
+</body>
+</html>
+
+
